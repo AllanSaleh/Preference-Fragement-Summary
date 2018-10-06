@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherPreferencesSummary</string>
+    <string name="preferences_key">target_location</string>
+</resources>
